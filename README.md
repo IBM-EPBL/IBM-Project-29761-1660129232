@@ -1,18 +1,15 @@
 # IBM-Project-29761-1660129232
 
-# IoT Based Safety Gadget for Child Safety Monitoring and Notification 
+## IoT Based Safety Gadget for Child Safety Monitoring and Notification 
 
-# Team ID : PNT2022TMID53708
+### Team ID : PNT2022TMID53708
 
-Team Size : 4
-
-Team Leader : Jaya Bala Surya Narayana Moorthy M - 714019106037
-
-Team member 1 : Dhivshnika J S                    - 714019106021
-
-Team member 2 : Balamurugan S                     - 714019106014
-
-Team member 3: Dhanasekar A                       - 714019106018
+|           TEAM MEMBERS             | REGISTER NUMBER |
+|------------------------------------|:----------------| 
+| Jaya Bala Surya Narayana Moorthy M | 714019106037    |
+| Dhivshnika J S                     | 714019106021    |
+| Balamurugan S                      | 714019106014    |
+| Dhanasekar A                       | 714019106018    |
 
 # Mentors
 Industry Mentor(s) Name : Baradwaj IL
