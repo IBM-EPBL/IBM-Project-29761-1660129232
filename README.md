@@ -6,10 +6,11 @@
 
 |           TEAM MEMBERS             | REGISTER NUMBER |
 |------------------------------------|:----------------| 
-| Jaya Bala Surya Narayana Moorthy M | 714019106037    |
-| Dhivshnika J S                     | 714019106021    |
+|<b>Jaya Bala Surya Narayana Moorthy M</b>| <b>714019106037</b>|
 | Balamurugan S                      | 714019106014    |
 | Dhanasekar A                       | 714019106018    |
+| Dhivshnika J S                     | 714019106021    |
+
 
 ### Mentors
 Industry Mentor(s) Name : Baradwaj IL
