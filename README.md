@@ -1,8 +1,5 @@
-# IBM-Project-29761-1660129232
-
-## IoT Based Safety Gadget for Child Safety Monitoring and Notification 
-
-### Team ID : PNT2022TMID53708
+# IoT Based Safety Gadget for Child Safety Monitoring and Notification 
+## Team ID : PNT2022TMID53708
 
 |           TEAM MEMBERS             | REGISTER NUMBER |
 |------------------------------------|:----------------| 
@@ -11,7 +8,7 @@
 | Dhanasekar A                       | 714019106018    |
 | Dhivshnika J S                     | 714019106021    |
 
-### Mentors
+### Mentors:
 |Industry Mentor(s) Name   |  Faculty Mentor(s) Name  
 |------------------------------------|:----------------| 
  Baradwaj IL                |  Anupama J Nair
