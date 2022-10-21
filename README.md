@@ -11,11 +11,11 @@
 | Dhanasekar A                       | 714019106018    |
 | Dhivshnika J S                     | 714019106021    |
 
-
 ### Mentors
-Industry Mentor(s) Name : Baradwaj IL
+|Industry Mentor(s) Name   |  Faculty Mentor(s) Name  
+|------------------------------------|:----------------| 
+ Baradwaj IL                |  Anupama J Nair
 
-Faculty Mentor(s) Name :  Anupama J Nair
 
 #### Project Description:
 
