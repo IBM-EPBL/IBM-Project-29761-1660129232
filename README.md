@@ -46,6 +46,7 @@ Child tracker helps the parents in continuously monitoring the child's location.
 - [x] ASSIGNMENT 1
 - [x] ASSIGNMENT 2
 - [x] ASSIGNMENT 3
+- [x] ASSIGNMENT 4
 ***
 ### 🔗 ASSIGNMENT FOLDER LINKS:
 | TEAM MEMBER(S) NAMES                | FOLDER LINK(S) |
