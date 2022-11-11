@@ -1,6 +1,7 @@
 # IBM-Project-29761-1660129232
 ## IoT Based Safety Gadget for Child Safety Monitoring and Notification 
 ### TEAM ID : PNT2022TMID53708
+### BATCH   : B2-2M4E
 ***
 <details>
  <summary><b>TABLE OF CONTENTS</b></summary>
